@@ -1,0 +1,38 @@
+/* Custom CSS for Black, White, and "Victory Green" Color Scheme */
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    background-color: #000;
+}
+
+header {
+    background-color: #000;
+}
+
+footer {
+    background-color: #000;
+}
+
+.card {
+    background-color: #006847;
+    color: #fff;
+}
+
+.card-title {
+    color: #fff;
+}
+
+.card-text {
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #006847;
+    border-color: #006847;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #00452D;
+    border-color: #00452D;
+}
