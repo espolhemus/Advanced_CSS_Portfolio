@@ -13,6 +13,10 @@ footer {
     background-color: #000;
 }
 
+.jumbotron {
+    color: black;
+}
+
 .card {
     background-color: #006847;
     color: #fff;
