@@ -29,7 +29,7 @@ This challenge required that we use HTML and CSS to create a Portfolio featuring
 
   An image of the deployed GitHub Pages application is:
 
-  ![Final HTML Page](/assets/images/deployedapp.png)
+  ![Final HTML Page](/assets/images/deployedimage.png)
 
   The location of the GitHub repository is:
   - https://github.com/espolhemus/Advanced_CSS_Portfolio/
